@@ -1,6 +1,9 @@
 const DashboardPage = () => {
   return (
     <>
+    <div className="min-h-full">
+      
+    </div>
       <h1 className="text-2xl font-bold mb-5">
         Dashboard
       </h1>

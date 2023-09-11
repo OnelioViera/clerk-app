@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex items-center">
           <Link href="/">
             <div className="text-lg uppercase font-bold text-white">
-              Clerk App
+              Clerk App - v2
             </div>
           </Link>
         </div>
